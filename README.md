@@ -15,7 +15,7 @@ C# Programming Language
 
 Cloud Collaboration Tools (i.e. GitHub, GoogleDoc)
 
-* My Task: Develop a environment and simulation that teaches about Cyberthreats and Techniques to protect againsy them
+* My Task: Develop a environment and simulation that teaches about Cyberthreats and Techniques to protect against them
 
  <img width="416" alt="image" src="https://github.com/user-attachments/assets/ddc8518d-4809-423d-9335-5c4d8805fa2c">
 
