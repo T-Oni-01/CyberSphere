@@ -29,6 +29,8 @@ Cloud Collaboration Tools (i.e. GitHub, GoogleDoc)
 <img width="584" alt="4" src="https://github.com/user-attachments/assets/2eebdc87-7c95-4cce-b4e5-bc5b277af8f6">
 <img width="584" alt="5" src="https://github.com/user-attachments/assets/379fec1b-6e06-45e7-92ba-265cad807138">
 
+Zip Link: https://mega.nz/file/jIcChZDY#eJ50DJS5ii1BOiUK76amg8x9Nno-UDKUsPZPbcPsdtw 
+
 * My Partners Section on Threat Analysis
 
   <img width="574" alt="TA_7" src="https://github.com/user-attachments/assets/2da2de05-3625-439c-9f0b-c23f670d4dcc">
@@ -38,6 +40,8 @@ Cloud Collaboration Tools (i.e. GitHub, GoogleDoc)
 <img width="574" alt="TA_2" src="https://github.com/user-attachments/assets/8e2e69e2-288d-4109-bbd4-587c73c9160c">
 <img width="574" alt="TA_!" src="https://github.com/user-attachments/assets/14cfca68-a886-46c8-9e6c-474e33d983a9">
 <img width="574" alt="TA_8" src="https://github.com/user-attachments/assets/732aa7d1-0a56-43a1-b013-5657eb49ed2a">
+
+Zip Link: https://mega.nz/file/l0Yn1TgQ#m8JV1Brj6OwY2jR3q5g8e_4t3KWWD3nQhG5qiK650kw
 
 
 * Assited the last memeber on his Incident Response Section
@@ -49,7 +53,7 @@ Cloud Collaboration Tools (i.e. GitHub, GoogleDoc)
 <img width="502" alt="Scene_1" src="https://github.com/user-attachments/assets/1f50672c-c783-43c1-9616-5d4f1820acb0">
 <img width="500" alt="Scene_8" src="https://github.com/user-attachments/assets/2a7d6102-370a-419e-974e-6b6df88da641">
 
-
+Zip Link: https://mega.nz/folder/aNl1kJRI#rz023GyzsJ3-KNyVY1W-5w 
 
 
 
