@@ -31,20 +31,8 @@ Cloud Collaboration Tools (i.e. GitHub, GoogleDoc)
 
 Zip Link: https://mega.nz/file/jIcChZDY#eJ50DJS5ii1BOiUK76amg8x9Nno-UDKUsPZPbcPsdtw 
 
-* My Partners Section on Threat Analysis
 
-  <img width="574" alt="TA_7" src="https://github.com/user-attachments/assets/2da2de05-3625-439c-9f0b-c23f670d4dcc">
-<img width="576" alt="TA_5" src="https://github.com/user-attachments/assets/143debc7-985e-4582-bebe-67ae608cf61a">
-<img width="572" alt="TA_4" src="https://github.com/user-attachments/assets/063217ad-0f49-4344-99a5-4d7dcc82d17f">
-<img width="574" alt="TA_3" src="https://github.com/user-attachments/assets/7efed1ed-3bd9-422e-83f3-2a39a7bbdd2d">
-<img width="574" alt="TA_2" src="https://github.com/user-attachments/assets/8e2e69e2-288d-4109-bbd4-587c73c9160c">
-<img width="574" alt="TA_!" src="https://github.com/user-attachments/assets/14cfca68-a886-46c8-9e6c-474e33d983a9">
-<img width="574" alt="TA_8" src="https://github.com/user-attachments/assets/732aa7d1-0a56-43a1-b013-5657eb49ed2a">
-
-Zip Link: https://mega.nz/file/l0Yn1TgQ#m8JV1Brj6OwY2jR3q5g8e_4t3KWWD3nQhG5qiK650kw
-
-
-*********Update***********
+*********Update: Spring 2025***********
 Created an Incident Response Section and posed up the Phishing and Encryption section
 Added video guides for user.
 Included tutorials on how to use the controller to access various game objects such as elevators, keypad, lever etc.
