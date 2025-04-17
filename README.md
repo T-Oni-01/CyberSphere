@@ -15,7 +15,7 @@ C# Programming Language
 
 Cloud Collaboration Tools (i.e. GitHub, GoogleDoc)
 
-* My Task: Develop a environment and simulation that teaches about Cyberthreats and Techniques to protect against them
+* Task: Develop a environment and simulation that teaches about Cyberthreats and Techniques to protect against them
 
  <img width="416" alt="image" src="https://github.com/user-attachments/assets/ddc8518d-4809-423d-9335-5c4d8805fa2c">
 
@@ -44,16 +44,15 @@ Zip Link: https://mega.nz/file/jIcChZDY#eJ50DJS5ii1BOiUK76amg8x9Nno-UDKUsPZPbcPs
 Zip Link: https://mega.nz/file/l0Yn1TgQ#m8JV1Brj6OwY2jR3q5g8e_4t3KWWD3nQhG5qiK650kw
 
 
-* Assited the last memeber on his Incident Response Section
+*********Update***********
+Created an Incident Response Section and posed up the Phishing and Encryption section
+Added video guides for user.
+Included tutorials on how to use the controller to access various game objects such as elevators, keypad, lever etc.
+![IMG_2658](https://github.com/user-attachments/assets/f69007cd-f07a-4417-8ada-68296d03b63d)
+![IMG_2659](https://github.com/user-attachments/assets/938abd07-a165-41cb-b233-61d7afe68c15)
 
-  <img width="500" alt="Scene_7" src="https://github.com/user-attachments/assets/5794b886-0728-44a9-8d72-e5713e2843f5">
-<img width="498" alt="Scene_5" src="https://github.com/user-attachments/assets/b90a466f-6d58-4f9a-a836-a5dc946c88f2">
-<img width="497" alt="Scene_3" src="https://github.com/user-attachments/assets/9104bc86-a947-4e5d-8d82-5f66af52b0c9">
-<img width="497" alt="Scene_2" src="https://github.com/user-attachments/assets/6011a6b5-ec83-4766-af96-51027a1a9a5e">
-<img width="502" alt="Scene_1" src="https://github.com/user-attachments/assets/1f50672c-c783-43c1-9616-5d4f1820acb0">
-<img width="500" alt="Scene_8" src="https://github.com/user-attachments/assets/2a7d6102-370a-419e-974e-6b6df88da641">
 
-Zip Link: https://mega.nz/folder/aNl1kJRI#rz023GyzsJ3-KNyVY1W-5w 
+
 
 
 
